@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hey, I'm Glain Shaju 👋
 
-<!--
-**glainshaju/glainshaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Full Stack Developer | BCA Student
 
-Here are some ideas to get you started:
+💻 Learning to build useful applications, one project at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a BCA student passionate about software development, problem-solving, and exploring new technologies. I'm currently strengthening my programming fundamentals and working toward becoming a Full Stack Developer.
+
+- 🌱 Currently learning programming and web development
+- 💡 Interested in building practical projects and solving real-world problems
+- 🛠️ Practicing Python, C++, and web development fundamentals
+- 🎯 Goal: Build projects that turn ideas into useful applications
+- 📚 Always learning, experimenting, and improving
+
+---
+
+### 🧰 Technologies & Tools
+
+**Programming**
+- Python
+- C++
+
+**Web Development — Learning**
+- HTML
+- CSS
+- JavaScript
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+---
+
+### 🚀 Featured Projects
+
+Check out my repositories to follow my learning journey:
+
+- 🐍 **Python Learning** — Practice programs and programming fundamentals.
+- ⚡ **C++ Learning** — Exercises and concepts I'm learning in C++.
+- 🌐 **Web Development** — My journey toward building full-stack applications.
+
+---
+
+### 📈 My Developer Journey
+
+I believe in learning by building. My focus is on writing better code, understanding core concepts, and gradually developing projects that demonstrate what I learn.
+
+**One step at a time. One project at a time. 🚀**
+
+---
+
+### 🤝 Let's Connect
+
+- GitHub: [@glainshaju](https://github.com/glainshaju)
+- linkedin: [Glain Shaju](https://www.linkedin.com/in/glain-shaju-68647738a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+⭐ Thanks for visiting my profile!
